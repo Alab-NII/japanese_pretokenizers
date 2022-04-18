@@ -9,12 +9,12 @@ homepage = "https://github.com/Alab-NII/japanese_pretokenizers"
 repository = "https://github.com/Alab-NII/japanese_pretokenizers"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-fugashi = "^1.1.2"
-ipadic = "^1.0.0"
-pytextspan = "^0.5.4"
-tokenizers = "^0.12.1"
-flake8 = "^4.0.1"
+python = ">=3.7"
+fugashi = ">=1.1.0"
+ipadic = ">=1.0.0"
+pytextspan = ">=0.5.0"
+tokenizers = ">=0.10.0"
+flake8 = ">=4.0.0"
 
 [tool.poetry.dev-dependencies]
 
